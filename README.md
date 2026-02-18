@@ -1,6 +1,6 @@
 # Introduction:
 
-This repository contains the data and python script in support of paper: [scFormer: A Transformer-Based Cell Type Annotation Method for scRNA-seq Data Using Smooth Gene Embedding and Global Features.](https://doi.org/10.1021/acs.jcim.4c00616 ) This work focuses on the annotation of scRNA-seq data using the Transformer-based deep learning model scFormer.
+This repository contains the data and python script in support of paper: [scFormer: A Transformer-Based Cell Type Annotation Method for scRNA-seq Data Using Smooth Gene Embedding and Global Features.](https://doi.org/10.1021/acs.jcim.4c00616 ) This work focuses on the annotation of scRNA-seq data using the Transformer-based deep learning model scFormer. Published in Journal of Chemical Information and Modeling.
 
 # Requirement:
 
